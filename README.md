@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gaurichoudhari13
-- 👀 I’m interested in data scientics 
+- 👀 I’m interested in data scientist
 - 🌱 I’m currently learning more technical skills for improving knowledge 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gaurichoudhari1234@gmail.com
